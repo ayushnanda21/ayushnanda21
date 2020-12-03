@@ -27,8 +27,8 @@
 </p>
 
 
-### GITHUB STATS
-<p align="center">
+#### GITHUB STATS
+<p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushnanda21&show_icons=true)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnanda21&layout=compact&theme=light" />

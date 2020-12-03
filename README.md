@@ -26,8 +26,8 @@
 </a>
 </p>
 
-<div>
-#### GITHUB STATS
+
+### GITHUB STATS
 <p align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushnanda21&show_icons=true)<br>
@@ -36,7 +36,7 @@
 ![Profile views](https://gpvc.arturio.dev/ayushnanda21)
 
 </p>
-</div>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!

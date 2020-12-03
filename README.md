@@ -31,12 +31,17 @@
 <p align="center">
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushnanda21&show_icons=true)<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Somsubhra1&layout=compact&theme=light" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnanda21&layout=compact&theme=light" />
 
 ![Profile views](https://gpvc.arturio.dev/ayushnanda21)
 
 </p>
 
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
 
 
 

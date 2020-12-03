@@ -26,7 +26,7 @@
 </a>
 </p>
 
-<br>
+
 #### GITHUB STATS
 <p align="center">
 

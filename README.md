@@ -26,7 +26,7 @@
 </a>
 </p>
 
-
+<div>
 #### GITHUB STATS
 <p align="center">
 
@@ -36,7 +36,7 @@
 ![Profile views](https://gpvc.arturio.dev/ayushnanda21)
 
 </p>
-
+</div>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!

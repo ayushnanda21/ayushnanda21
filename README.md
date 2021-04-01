@@ -1,7 +1,7 @@
 ### Hello World. I'm Ayush Nanda 👋
 
 - 🔭 I’m currently working on Django based Projects.
-- 🌱 I’m currently learning Django and Python Stack
+- 🌱 I’m currently learning Machine Learning and Django framework
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
 - 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about Django and UI related stuff, games and sportscars & tech.

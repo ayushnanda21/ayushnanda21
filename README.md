@@ -9,6 +9,16 @@
 - 😄 Pronouns: | Web developer | Coder | Tech lover | Supercars Lover | Music Lover |
 - ⚡ Fun fact: I love to travel a lot.
 
+<p>
+  
+![Profile views](https://gpvc.arturio.dev/ayushnanda21)
+
+</p>
+
+<br/>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 #### SOCIAL LINKS
 
 <p>
@@ -34,7 +44,7 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushnanda21&show_icons=true)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnanda21&layout=compact&theme=light" />
 
-![Profile views](https://gpvc.arturio.dev/ayushnanda21)
+
 
 </p>
 

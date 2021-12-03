@@ -18,7 +18,7 @@
 ![Profile views](https://gpvc.arturio.dev/ayushnanda21)
 
 </p>
-#### SOCIAL LINKS
+
 
 <p>
 <a href="https://www.linkedin.com/in/ayush-nanda-8997b1165/">
@@ -41,7 +41,7 @@
 <p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushnanda21&show_icons=true)<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnanda21&layout=compact&theme=light" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnanda21&layout=compact&theme=light" width="20px" height="20px" />
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushnanda21)](https://git.io/streak-stats)
 
 

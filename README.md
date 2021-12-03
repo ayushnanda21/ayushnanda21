@@ -19,7 +19,9 @@
 
 </p>
 
-
+<p>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushnanda21)](https://git.io/streak-stats)
+</p>
 
 #### SOCIAL LINKS
 

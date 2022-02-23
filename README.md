@@ -1,10 +1,10 @@
 ### Hello World. I'm Ayush Nanda 👋
 
-- 🔭 I’m currently working on Django based Projects.
-- 🌱 I’m currently learning Machine Learning and Django framework
+- 🔭 I’m currently working on Nodejs, Express js, Mongodb, Mysql, REST
+- 🌱 Have experience in knowledge with Django, Sqlite and Machine Learning
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
 - 🤔 I’m looking for help with Data Structures and Algorithms
-- 💬 Ask me about Django and UI related stuff, games and sportscars & tech.
+- 💬 Ask me about sportscars & tech.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-nanda-8997b1165/) 
 - 😄 Pronouns: | Web developer | Coder | Tech lover | Supercars Lover | Music Lover |
 - ⚡ Fun fact: I love to travel a lot.

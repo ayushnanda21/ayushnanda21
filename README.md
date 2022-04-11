@@ -16,6 +16,7 @@
 <p>
   
 ![Profile views](https://gpvc.arturio.dev/ayushnanda21)
+![](https://komarev.com/ghpvc/?username=ayushnanda21&style=flat-square)
 
 </p>
 

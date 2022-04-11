@@ -11,12 +11,9 @@
 
 <br/>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300px" height="300px" />
-
 <p>
   
 ![Profile views](https://gpvc.arturio.dev/ayushnanda21)
-![](https://komarev.com/ghpvc/?username=ayushnanda21&style=flat-square)
 
 </p>
 
@@ -39,6 +36,7 @@
 <br/>
 
 #### GITHUB STATS
+<div align="center">
 <p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushnanda21&show_icons=true)<br>
@@ -47,6 +45,8 @@
 
 
 </p>
+  
+</div>
 
 <div align="center">
 

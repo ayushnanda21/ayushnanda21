@@ -1,9 +1,8 @@
 ### Hello World. I'm Ayush Nanda 👋
 
-- 🔭 I’m currently working on Nodejs, Express js, Mongodb, Mysql, RESTAPI
+- 🔭 I’m currently working on Nodejs, Express js, Mongodb, Mysql, RESTApi, Reactjs
 - 🌱 Have experience in knowledge with Django, Sqlite and Machine Learning
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
-- 🤔 I’m looking for help with Data Structures and Algorithms
 - 💬 Ask me about sportscars & tech.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ayush-nanda-8997b1165/) 
 - 😄 Pronouns: | Web developer | Coder | Tech lover | Supercars Lover | Music Lover |
@@ -35,8 +34,9 @@
 
 <br/>
 
-#### GITHUB STATS
+
 <div align="center">
+#### GITHUB STATS
 <p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ayushnanda21&show_icons=true)<br>

@@ -1,6 +1,6 @@
 Hi 👋 My name is Ayush Nanda
 
-- 🔭 I’m currently working on Nodejs, Express js, Mongodb, Mysql, RESTApi, Reactjs
+- 🔭 I’m currently working on Nodejs, Express js, Mongodb, Mysql, RESTAPI, Reactjs, JEST
 - 🌱 Have experience in knowledge with Django, Sqlite and Machine Learning
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
 - 💬 Ask me about sportscars & tech.
